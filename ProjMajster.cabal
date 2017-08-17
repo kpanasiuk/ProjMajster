@@ -2,12 +2,12 @@ name:                ProjMajster
 version:             0
 -- synopsis:
 -- description:
-homepage:            https://github.com/kpanasiuk/ProjMajster#readme
+homepage:            https://github.com/mykopan/ProjMajster#readme
 license:             BSD3
 license-file:        LICENSE
-author:              Nikolay Panasyuk
+author:              Mykola Panasyuk
 maintainer:          kolia.panasiuk@me.com
-copyright:           2017 Nikolay Panasiuk
+copyright:           2017 Mykola Panasyuk
 category:            Development
 build-type:          Simple
 cabal-version:       >=1.10
